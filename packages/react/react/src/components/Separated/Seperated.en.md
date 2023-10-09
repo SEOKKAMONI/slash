@@ -4,7 +4,7 @@ title: Separated
 
 # Separated
 
-Used when
+A convenient component for inserting a repeating component between each element.
 
 ```tsx
 <Separated with={<Border type="padding24" />}>
